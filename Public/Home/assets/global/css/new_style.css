@@ -1,0 +1,15 @@
+/*注册页面*/
+.new_style1{
+	margin: 50px auto;
+	float: none !important;
+}
+.style_block{
+	display: block !important;
+}
+.phone_style1{
+	display: inline-block !important;
+	width: 89% !important;
+}
+.phone_style2{
+	float:right;    
+}

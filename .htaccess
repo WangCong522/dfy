@@ -1,0 +1,71 @@
+RewriteEngine on
+#设置xcx指向根目录的子目录xxx
+RewriteCond %{HTTP_HOST} ^xcx.gwwwgd.com/$
+RewriteCond %{REQUEST_URI} !^/xcx/public/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /xcx/public/$1
+RewriteCond %{HTTP_HOST} ^xcx.gwwwgd.com$
+RewriteRule ^(/)?$ /xcx/public/index.php [L]
+
+
+RewriteEngine on
+#设置test指向根目录的子目录test
+RewriteCond %{HTTP_HOST} ^test.gwwwgd.com/$
+RewriteCond %{REQUEST_URI} !^/test/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /test/$1
+RewriteCond %{HTTP_HOST} ^test.gwwwgd.com$
+RewriteRule ^(/)?$ /test/index.php [L]
+
+
+RewriteEngine on
+#设置demo指向根目录的子目录demo
+RewriteCond %{HTTP_HOST} ^www.gwwwgd.com/$
+RewriteCond %{REQUEST_URI} !^/www/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /www/$1
+RewriteCond %{HTTP_HOST} ^www.gwwwgd.com$
+RewriteRule ^(/)?$ /www/index.php [L]
+
+RewriteEngine on
+#设置xyhz指向根目录的子目录xyhz
+RewriteCond %{HTTP_HOST} ^xyhz.gwwwgd.com/$
+RewriteCond %{REQUEST_URI} !^/xyhz/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /xyhz/$1
+RewriteCond %{HTTP_HOST} ^xyhz.gwwwgd.com$
+RewriteRule ^(/)?$ /xyhz/index.php [L]
+
+RewriteEngine on
+#设置paotui指向根目录的子目录xyhz
+RewriteCond %{HTTP_HOST} ^paotui.gwwwgd.com/$
+RewriteCond %{REQUEST_URI} !^/paotui/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /paotui/$1
+RewriteCond %{HTTP_HOST} ^paotui.gwwwgd.com$
+RewriteRule ^(/)?$ /paotui [L]
+
+RewriteEngine on
+#设置paotui指向根目录的子目录kqsshop
+RewriteCond %{HTTP_HOST} ^kqsshop.gwwwgd.com/$
+RewriteCond %{REQUEST_URI} !^/kqsshop/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /kqsshop/$1
+RewriteCond %{HTTP_HOST} ^kqsshop.gwwwgd.com$
+RewriteRule ^(/)?$ /kqsshop [L]
+
+RewriteEngine on
+#设置paotui指向根目录的子目录fangyinjia
+RewriteCond %{HTTP_HOST} ^dfy.gwwwgd.com/$
+RewriteCond %{REQUEST_URI} !^/fangyinjia/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /fangyinjia/$1
+RewriteCond %{HTTP_HOST} ^dfy.gwwwgd.com$
+RewriteRule ^(/)?$ /fangyinjia [L]

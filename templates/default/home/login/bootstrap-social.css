@@ -1,0 +1,1485 @@
+.btn-social {
+	text-align: left; overflow: hidden; padding-left: 44px; white-space: nowrap; position: relative; -ms-text-overflow: ellipsis;
+}
+.btn-social > :first-child {
+	left: 0px; top: 0px; width: 32px; text-align: center; bottom: 0px; line-height: 34px; font-size: 1.6em; border-right-color: rgba(0, 0, 0, 0.2); border-right-width: 1px; border-right-style: solid; position: absolute;
+}
+.btn-lg.btn-social {
+	padding-left: 61px;
+}
+.btn-lg.btn-social :first-child {
+	width: 45px; line-height: 45px; font-size: 1.8em;
+}
+.btn-sm.btn-social {
+	padding-left: 38px;
+}
+.btn-sm.btn-social :first-child {
+	width: 28px; line-height: 28px; font-size: 1.4em;
+}
+.btn-xs.btn-social {
+	padding-left: 30px;
+}
+.btn-xs.btn-social :first-child {
+	width: 20px; line-height: 20px; font-size: 1.2em;
+}
+.btn-social-icon {
+	padding: 0px; width: 34px; height: 34px; text-align: left; overflow: hidden; white-space: nowrap; position: relative; -ms-text-overflow: ellipsis;
+}
+.btn-social-icon > :first-child {
+	left: 0px; top: 0px; width: 32px; text-align: center; bottom: 0px; line-height: 34px; font-size: 1.6em; border-right-color: rgba(0, 0, 0, 0.2); border-right-width: 1px; border-right-style: solid; position: absolute;
+}
+.btn-lg.btn-social-icon {
+	padding-left: 61px;
+}
+.btn-lg.btn-social-icon :first-child {
+	width: 45px; line-height: 45px; font-size: 1.8em;
+}
+.btn-sm.btn-social-icon {
+	padding-left: 38px;
+}
+.btn-sm.btn-social-icon :first-child {
+	width: 28px; line-height: 28px; font-size: 1.4em;
+}
+.btn-xs.btn-social-icon {
+	padding-left: 30px;
+}
+.btn-xs.btn-social-icon :first-child {
+	width: 20px; line-height: 20px; font-size: 1.2em;
+}
+.btn-social-icon :first-child {
+	border: currentColor; border-image: none; width: 100% !important; text-align: center;
+}
+.btn-lg.btn-social-icon {
+	width: 45px; height: 45px; padding-right: 0px; padding-left: 0px;
+}
+.btn-sm.btn-social-icon {
+	width: 30px; height: 30px; padding-right: 0px; padding-left: 0px;
+}
+.btn-xs.btn-social-icon {
+	width: 22px; height: 22px; padding-right: 0px; padding-left: 0px;
+}
+.btn-adn {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(216, 122, 104);
+}
+.btn-adn:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(206, 86, 63);
+}
+.btn-adn:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(206, 86, 63);
+}
+.btn-adn:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(206, 86, 63);
+}
+.active.btn-adn {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(206, 86, 63);
+}
+.open > .btn-adn.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(206, 86, 63);
+}
+.btn-adn:active {
+	background-image: none;
+}
+.active.btn-adn {
+	background-image: none;
+}
+.open > .btn-adn.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-adn {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+[disabled].btn-adn {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+fieldset[disabled] .btn-adn {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+.disabled.btn-adn:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+[disabled].btn-adn:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+fieldset[disabled] .btn-adn:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+.disabled.btn-adn:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+[disabled].btn-adn:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+fieldset[disabled] .btn-adn:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+.disabled.btn-adn:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+[disabled].btn-adn:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+fieldset[disabled] .btn-adn:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+.active.disabled.btn-adn {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+[disabled].active.btn-adn {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+fieldset[disabled] .active.btn-adn {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(216, 122, 104);
+}
+.btn-adn .badge {
+	color: rgb(216, 122, 104); background-color: rgb(255, 255, 255);
+}
+.btn-bitbucket {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(32, 80, 129);
+}
+.btn-bitbucket:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(22, 55, 88);
+}
+.btn-bitbucket:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(22, 55, 88);
+}
+.btn-bitbucket:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(22, 55, 88);
+}
+.active.btn-bitbucket {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(22, 55, 88);
+}
+.open > .btn-bitbucket.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(22, 55, 88);
+}
+.btn-bitbucket:active {
+	background-image: none;
+}
+.active.btn-bitbucket {
+	background-image: none;
+}
+.open > .btn-bitbucket.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-bitbucket {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+[disabled].btn-bitbucket {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+fieldset[disabled] .btn-bitbucket {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+.disabled.btn-bitbucket:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+[disabled].btn-bitbucket:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+fieldset[disabled] .btn-bitbucket:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+.disabled.btn-bitbucket:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+[disabled].btn-bitbucket:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+fieldset[disabled] .btn-bitbucket:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+.disabled.btn-bitbucket:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+[disabled].btn-bitbucket:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+fieldset[disabled] .btn-bitbucket:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+.active.disabled.btn-bitbucket {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+[disabled].active.btn-bitbucket {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+fieldset[disabled] .active.btn-bitbucket {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(32, 80, 129);
+}
+.btn-bitbucket .badge {
+	color: rgb(32, 80, 129); background-color: rgb(255, 255, 255);
+}
+.btn-dropbox {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(16, 135, 221);
+}
+.btn-dropbox:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(13, 106, 173);
+}
+.btn-dropbox:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(13, 106, 173);
+}
+.btn-dropbox:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(13, 106, 173);
+}
+.active.btn-dropbox {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(13, 106, 173);
+}
+.open > .btn-dropbox.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(13, 106, 173);
+}
+.btn-dropbox:active {
+	background-image: none;
+}
+.active.btn-dropbox {
+	background-image: none;
+}
+.open > .btn-dropbox.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-dropbox {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+[disabled].btn-dropbox {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+fieldset[disabled] .btn-dropbox {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+.disabled.btn-dropbox:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+[disabled].btn-dropbox:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+fieldset[disabled] .btn-dropbox:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+.disabled.btn-dropbox:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+[disabled].btn-dropbox:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+fieldset[disabled] .btn-dropbox:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+.disabled.btn-dropbox:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+[disabled].btn-dropbox:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+fieldset[disabled] .btn-dropbox:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+.active.disabled.btn-dropbox {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+[disabled].active.btn-dropbox {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+fieldset[disabled] .active.btn-dropbox {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(16, 135, 221);
+}
+.btn-dropbox .badge {
+	color: rgb(16, 135, 221); background-color: rgb(255, 255, 255);
+}
+.btn-facebook {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(59, 89, 152);
+}
+.btn-facebook:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(45, 67, 115);
+}
+.btn-facebook:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(45, 67, 115);
+}
+.btn-facebook:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(45, 67, 115);
+}
+.active.btn-facebook {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(45, 67, 115);
+}
+.open > .btn-facebook.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(45, 67, 115);
+}
+.btn-facebook:active {
+	background-image: none;
+}
+.active.btn-facebook {
+	background-image: none;
+}
+.open > .btn-facebook.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-facebook {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+[disabled].btn-facebook {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+fieldset[disabled] .btn-facebook {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+.disabled.btn-facebook:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+[disabled].btn-facebook:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+fieldset[disabled] .btn-facebook:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+.disabled.btn-facebook:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+[disabled].btn-facebook:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+fieldset[disabled] .btn-facebook:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+.disabled.btn-facebook:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+[disabled].btn-facebook:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+fieldset[disabled] .btn-facebook:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+.active.disabled.btn-facebook {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+[disabled].active.btn-facebook {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+fieldset[disabled] .active.btn-facebook {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(59, 89, 152);
+}
+.btn-facebook .badge {
+	color: rgb(59, 89, 152); background-color: rgb(255, 255, 255);
+}
+.btn-flickr {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(255, 0, 132);
+}
+.btn-flickr:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(204, 0, 106);
+}
+.btn-flickr:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(204, 0, 106);
+}
+.btn-flickr:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(204, 0, 106);
+}
+.active.btn-flickr {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(204, 0, 106);
+}
+.open > .btn-flickr.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(204, 0, 106);
+}
+.btn-flickr:active {
+	background-image: none;
+}
+.active.btn-flickr {
+	background-image: none;
+}
+.open > .btn-flickr.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-flickr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+[disabled].btn-flickr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+fieldset[disabled] .btn-flickr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+.disabled.btn-flickr:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+[disabled].btn-flickr:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+fieldset[disabled] .btn-flickr:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+.disabled.btn-flickr:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+[disabled].btn-flickr:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+fieldset[disabled] .btn-flickr:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+.disabled.btn-flickr:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+[disabled].btn-flickr:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+fieldset[disabled] .btn-flickr:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+.active.disabled.btn-flickr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+[disabled].active.btn-flickr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+fieldset[disabled] .active.btn-flickr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 0, 132);
+}
+.btn-flickr .badge {
+	color: rgb(255, 0, 132); background-color: rgb(255, 255, 255);
+}
+.btn-foursquare {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 114, 177);
+}
+.btn-foursquare:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 81, 126);
+}
+.btn-foursquare:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 81, 126);
+}
+.btn-foursquare:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 81, 126);
+}
+.active.btn-foursquare {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 81, 126);
+}
+.open > .btn-foursquare.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 81, 126);
+}
+.btn-foursquare:active {
+	background-image: none;
+}
+.active.btn-foursquare {
+	background-image: none;
+}
+.open > .btn-foursquare.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-foursquare {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+[disabled].btn-foursquare {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+fieldset[disabled] .btn-foursquare {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+.disabled.btn-foursquare:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+[disabled].btn-foursquare:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+fieldset[disabled] .btn-foursquare:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+.disabled.btn-foursquare:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+[disabled].btn-foursquare:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+fieldset[disabled] .btn-foursquare:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+.disabled.btn-foursquare:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+[disabled].btn-foursquare:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+fieldset[disabled] .btn-foursquare:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+.active.disabled.btn-foursquare {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+[disabled].active.btn-foursquare {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+fieldset[disabled] .active.btn-foursquare {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 114, 177);
+}
+.btn-foursquare .badge {
+	color: rgb(0, 114, 177); background-color: rgb(255, 255, 255);
+}
+.btn-github {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(68, 68, 68);
+}
+.btn-github:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(43, 43, 43);
+}
+.btn-github:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(43, 43, 43);
+}
+.btn-github:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(43, 43, 43);
+}
+.active.btn-github {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(43, 43, 43);
+}
+.open > .btn-github.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(43, 43, 43);
+}
+.btn-github:active {
+	background-image: none;
+}
+.active.btn-github {
+	background-image: none;
+}
+.open > .btn-github.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-github {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+[disabled].btn-github {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+fieldset[disabled] .btn-github {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+.disabled.btn-github:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+[disabled].btn-github:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+fieldset[disabled] .btn-github:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+.disabled.btn-github:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+[disabled].btn-github:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+fieldset[disabled] .btn-github:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+.disabled.btn-github:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+[disabled].btn-github:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+fieldset[disabled] .btn-github:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+.active.disabled.btn-github {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+[disabled].active.btn-github {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+fieldset[disabled] .active.btn-github {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(68, 68, 68);
+}
+.btn-github .badge {
+	color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);
+}
+.btn-google-plus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(221, 75, 57);
+}
+.btn-google-plus:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(194, 51, 33);
+}
+.btn-google-plus:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(194, 51, 33);
+}
+.btn-google-plus:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(194, 51, 33);
+}
+.active.btn-google-plus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(194, 51, 33);
+}
+.open > .btn-google-plus.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(194, 51, 33);
+}
+.btn-google-plus:active {
+	background-image: none;
+}
+.active.btn-google-plus {
+	background-image: none;
+}
+.open > .btn-google-plus.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-google-plus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+[disabled].btn-google-plus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+fieldset[disabled] .btn-google-plus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+.disabled.btn-google-plus:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+[disabled].btn-google-plus:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+fieldset[disabled] .btn-google-plus:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+.disabled.btn-google-plus:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+[disabled].btn-google-plus:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+fieldset[disabled] .btn-google-plus:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+.disabled.btn-google-plus:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+[disabled].btn-google-plus:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+fieldset[disabled] .btn-google-plus:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+.active.disabled.btn-google-plus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+[disabled].active.btn-google-plus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+fieldset[disabled] .active.btn-google-plus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(221, 75, 57);
+}
+.btn-google-plus .badge {
+	color: rgb(221, 75, 57); background-color: rgb(255, 255, 255);
+}
+.btn-instagram {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(63, 114, 155);
+}
+.btn-instagram:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(48, 87, 119);
+}
+.btn-instagram:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(48, 87, 119);
+}
+.btn-instagram:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(48, 87, 119);
+}
+.active.btn-instagram {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(48, 87, 119);
+}
+.open > .btn-instagram.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(48, 87, 119);
+}
+.btn-instagram:active {
+	background-image: none;
+}
+.active.btn-instagram {
+	background-image: none;
+}
+.open > .btn-instagram.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-instagram {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+[disabled].btn-instagram {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+fieldset[disabled] .btn-instagram {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+.disabled.btn-instagram:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+[disabled].btn-instagram:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+fieldset[disabled] .btn-instagram:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+.disabled.btn-instagram:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+[disabled].btn-instagram:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+fieldset[disabled] .btn-instagram:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+.disabled.btn-instagram:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+[disabled].btn-instagram:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+fieldset[disabled] .btn-instagram:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+.active.disabled.btn-instagram {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+[disabled].active.btn-instagram {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+fieldset[disabled] .active.btn-instagram {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(63, 114, 155);
+}
+.btn-instagram .badge {
+	color: rgb(63, 114, 155); background-color: rgb(255, 255, 255);
+}
+.btn-linkedin {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 123, 182);
+}
+.btn-linkedin:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 89, 131);
+}
+.btn-linkedin:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 89, 131);
+}
+.btn-linkedin:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 89, 131);
+}
+.active.btn-linkedin {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 89, 131);
+}
+.open > .btn-linkedin.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(0, 89, 131);
+}
+.btn-linkedin:active {
+	background-image: none;
+}
+.active.btn-linkedin {
+	background-image: none;
+}
+.open > .btn-linkedin.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-linkedin {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+[disabled].btn-linkedin {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+fieldset[disabled] .btn-linkedin {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+.disabled.btn-linkedin:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+[disabled].btn-linkedin:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+fieldset[disabled] .btn-linkedin:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+.disabled.btn-linkedin:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+[disabled].btn-linkedin:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+fieldset[disabled] .btn-linkedin:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+.disabled.btn-linkedin:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+[disabled].btn-linkedin:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+fieldset[disabled] .btn-linkedin:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+.active.disabled.btn-linkedin {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+[disabled].active.btn-linkedin {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+fieldset[disabled] .active.btn-linkedin {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(0, 123, 182);
+}
+.btn-linkedin .badge {
+	color: rgb(0, 123, 182); background-color: rgb(255, 255, 255);
+}
+.btn-microsoft {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(38, 114, 236);
+}
+.btn-microsoft:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(18, 90, 205);
+}
+.btn-microsoft:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(18, 90, 205);
+}
+.btn-microsoft:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(18, 90, 205);
+}
+.active.btn-microsoft {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(18, 90, 205);
+}
+.open > .btn-microsoft.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(18, 90, 205);
+}
+.btn-microsoft:active {
+	background-image: none;
+}
+.active.btn-microsoft {
+	background-image: none;
+}
+.open > .btn-microsoft.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-microsoft {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+[disabled].btn-microsoft {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+fieldset[disabled] .btn-microsoft {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+.disabled.btn-microsoft:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+[disabled].btn-microsoft:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+fieldset[disabled] .btn-microsoft:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+.disabled.btn-microsoft:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+[disabled].btn-microsoft:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+fieldset[disabled] .btn-microsoft:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+.disabled.btn-microsoft:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+[disabled].btn-microsoft:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+fieldset[disabled] .btn-microsoft:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+.active.disabled.btn-microsoft {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+[disabled].active.btn-microsoft {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+fieldset[disabled] .active.btn-microsoft {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(38, 114, 236);
+}
+.btn-microsoft .badge {
+	color: rgb(38, 114, 236); background-color: rgb(255, 255, 255);
+}
+.btn-openid {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(247, 147, 30);
+}
+.btn-openid:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(218, 121, 8);
+}
+.btn-openid:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(218, 121, 8);
+}
+.btn-openid:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(218, 121, 8);
+}
+.active.btn-openid {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(218, 121, 8);
+}
+.open > .btn-openid.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(218, 121, 8);
+}
+.btn-openid:active {
+	background-image: none;
+}
+.active.btn-openid {
+	background-image: none;
+}
+.open > .btn-openid.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-openid {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+[disabled].btn-openid {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+fieldset[disabled] .btn-openid {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+.disabled.btn-openid:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+[disabled].btn-openid:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+fieldset[disabled] .btn-openid:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+.disabled.btn-openid:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+[disabled].btn-openid:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+fieldset[disabled] .btn-openid:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+.disabled.btn-openid:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+[disabled].btn-openid:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+fieldset[disabled] .btn-openid:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+.active.disabled.btn-openid {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+[disabled].active.btn-openid {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+fieldset[disabled] .active.btn-openid {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(247, 147, 30);
+}
+.btn-openid .badge {
+	color: rgb(247, 147, 30); background-color: rgb(255, 255, 255);
+}
+.btn-reddit {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(0, 0, 0); background-color: rgb(239, 247, 255);
+}
+.btn-reddit:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(0, 0, 0); background-color: rgb(188, 221, 255);
+}
+.btn-reddit:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(0, 0, 0); background-color: rgb(188, 221, 255);
+}
+.btn-reddit:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(0, 0, 0); background-color: rgb(188, 221, 255);
+}
+.active.btn-reddit {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(0, 0, 0); background-color: rgb(188, 221, 255);
+}
+.open > .btn-reddit.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(0, 0, 0); background-color: rgb(188, 221, 255);
+}
+.btn-reddit:active {
+	background-image: none;
+}
+.active.btn-reddit {
+	background-image: none;
+}
+.open > .btn-reddit.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-reddit {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+[disabled].btn-reddit {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+fieldset[disabled] .btn-reddit {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+.disabled.btn-reddit:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+[disabled].btn-reddit:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+fieldset[disabled] .btn-reddit:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+.disabled.btn-reddit:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+[disabled].btn-reddit:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+fieldset[disabled] .btn-reddit:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+.disabled.btn-reddit:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+[disabled].btn-reddit:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+fieldset[disabled] .btn-reddit:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+.active.disabled.btn-reddit {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+[disabled].active.btn-reddit {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+fieldset[disabled] .active.btn-reddit {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(239, 247, 255);
+}
+.btn-reddit .badge {
+	color: rgb(239, 247, 255); background-color: rgb(0, 0, 0);
+}
+.btn-soundcloud {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(255, 85, 0);
+}
+.btn-soundcloud:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(204, 68, 0);
+}
+.btn-soundcloud:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(204, 68, 0);
+}
+.btn-soundcloud:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(204, 68, 0);
+}
+.active.btn-soundcloud {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(204, 68, 0);
+}
+.open > .btn-soundcloud.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(204, 68, 0);
+}
+.btn-soundcloud:active {
+	background-image: none;
+}
+.active.btn-soundcloud {
+	background-image: none;
+}
+.open > .btn-soundcloud.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-soundcloud {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+[disabled].btn-soundcloud {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+fieldset[disabled] .btn-soundcloud {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+.disabled.btn-soundcloud:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+[disabled].btn-soundcloud:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+fieldset[disabled] .btn-soundcloud:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+.disabled.btn-soundcloud:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+[disabled].btn-soundcloud:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+fieldset[disabled] .btn-soundcloud:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+.disabled.btn-soundcloud:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+[disabled].btn-soundcloud:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+fieldset[disabled] .btn-soundcloud:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+.active.disabled.btn-soundcloud {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+[disabled].active.btn-soundcloud {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+fieldset[disabled] .active.btn-soundcloud {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(255, 85, 0);
+}
+.btn-soundcloud .badge {
+	color: rgb(255, 85, 0); background-color: rgb(255, 255, 255);
+}
+.btn-tumblr {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(44, 71, 98);
+}
+.btn-tumblr:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(28, 45, 63);
+}
+.btn-tumblr:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(28, 45, 63);
+}
+.btn-tumblr:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(28, 45, 63);
+}
+.active.btn-tumblr {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(28, 45, 63);
+}
+.open > .btn-tumblr.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(28, 45, 63);
+}
+.btn-tumblr:active {
+	background-image: none;
+}
+.active.btn-tumblr {
+	background-image: none;
+}
+.open > .btn-tumblr.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-tumblr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+[disabled].btn-tumblr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+fieldset[disabled] .btn-tumblr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+.disabled.btn-tumblr:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+[disabled].btn-tumblr:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+fieldset[disabled] .btn-tumblr:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+.disabled.btn-tumblr:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+[disabled].btn-tumblr:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+fieldset[disabled] .btn-tumblr:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+.disabled.btn-tumblr:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+[disabled].btn-tumblr:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+fieldset[disabled] .btn-tumblr:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+.active.disabled.btn-tumblr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+[disabled].active.btn-tumblr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+fieldset[disabled] .active.btn-tumblr {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(44, 71, 98);
+}
+.btn-tumblr .badge {
+	color: rgb(44, 71, 98); background-color: rgb(255, 255, 255);
+}
+.btn-twitter {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(85, 172, 238);
+}
+.btn-twitter:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(39, 149, 233);
+}
+.btn-twitter:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(39, 149, 233);
+}
+.btn-twitter:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(39, 149, 233);
+}
+.active.btn-twitter {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(39, 149, 233);
+}
+.open > .btn-twitter.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(39, 149, 233);
+}
+.btn-twitter:active {
+	background-image: none;
+}
+.active.btn-twitter {
+	background-image: none;
+}
+.open > .btn-twitter.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-twitter {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+[disabled].btn-twitter {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+fieldset[disabled] .btn-twitter {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+.disabled.btn-twitter:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+[disabled].btn-twitter:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+fieldset[disabled] .btn-twitter:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+.disabled.btn-twitter:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+[disabled].btn-twitter:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+fieldset[disabled] .btn-twitter:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+.disabled.btn-twitter:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+[disabled].btn-twitter:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+fieldset[disabled] .btn-twitter:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+.active.disabled.btn-twitter {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+[disabled].active.btn-twitter {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+fieldset[disabled] .active.btn-twitter {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(85, 172, 238);
+}
+.btn-twitter .badge {
+	color: rgb(85, 172, 238); background-color: rgb(255, 255, 255);
+}
+.btn-vimeo {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(26, 183, 234);
+}
+.btn-vimeo:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(18, 149, 191);
+}
+.btn-vimeo:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(18, 149, 191);
+}
+.btn-vimeo:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(18, 149, 191);
+}
+.active.btn-vimeo {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(18, 149, 191);
+}
+.open > .btn-vimeo.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(18, 149, 191);
+}
+.btn-vimeo:active {
+	background-image: none;
+}
+.active.btn-vimeo {
+	background-image: none;
+}
+.open > .btn-vimeo.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-vimeo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+[disabled].btn-vimeo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+fieldset[disabled] .btn-vimeo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+.disabled.btn-vimeo:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+[disabled].btn-vimeo:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+fieldset[disabled] .btn-vimeo:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+.disabled.btn-vimeo:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+[disabled].btn-vimeo:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+fieldset[disabled] .btn-vimeo:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+.disabled.btn-vimeo:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+[disabled].btn-vimeo:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+fieldset[disabled] .btn-vimeo:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+.active.disabled.btn-vimeo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+[disabled].active.btn-vimeo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+fieldset[disabled] .active.btn-vimeo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(26, 183, 234);
+}
+.btn-vimeo .badge {
+	color: rgb(26, 183, 234); background-color: rgb(255, 255, 255);
+}
+.btn-vk {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(88, 126, 163);
+}
+.btn-vk:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(70, 100, 130);
+}
+.btn-vk:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(70, 100, 130);
+}
+.btn-vk:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(70, 100, 130);
+}
+.active.btn-vk {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(70, 100, 130);
+}
+.open > .btn-vk.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(70, 100, 130);
+}
+.btn-vk:active {
+	background-image: none;
+}
+.active.btn-vk {
+	background-image: none;
+}
+.open > .btn-vk.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-vk {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+[disabled].btn-vk {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+fieldset[disabled] .btn-vk {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+.disabled.btn-vk:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+[disabled].btn-vk:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+fieldset[disabled] .btn-vk:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+.disabled.btn-vk:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+[disabled].btn-vk:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+fieldset[disabled] .btn-vk:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+.disabled.btn-vk:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+[disabled].btn-vk:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+fieldset[disabled] .btn-vk:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+.active.disabled.btn-vk {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+[disabled].active.btn-vk {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+fieldset[disabled] .active.btn-vk {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(88, 126, 163);
+}
+.btn-vk .badge {
+	color: rgb(88, 126, 163); background-color: rgb(255, 255, 255);
+}
+.btn-yahoo {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(114, 14, 158);
+}
+.btn-yahoo:hover {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(80, 10, 111);
+}
+.btn-yahoo:focus {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(80, 10, 111);
+}
+.btn-yahoo:active {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(80, 10, 111);
+}
+.active.btn-yahoo {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(80, 10, 111);
+}
+.open > .btn-yahoo.dropdown-toggle {
+	border-color: rgba(0, 0, 0, 0.2); color: rgb(255, 255, 255); background-color: rgb(80, 10, 111);
+}
+.btn-yahoo:active {
+	background-image: none;
+}
+.active.btn-yahoo {
+	background-image: none;
+}
+.open > .btn-yahoo.dropdown-toggle {
+	background-image: none;
+}
+.disabled.btn-yahoo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+[disabled].btn-yahoo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+fieldset[disabled] .btn-yahoo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+.disabled.btn-yahoo:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+[disabled].btn-yahoo:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+fieldset[disabled] .btn-yahoo:hover {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+.disabled.btn-yahoo:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+[disabled].btn-yahoo:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+fieldset[disabled] .btn-yahoo:focus {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+.disabled.btn-yahoo:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+[disabled].btn-yahoo:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+fieldset[disabled] .btn-yahoo:active {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+.active.disabled.btn-yahoo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+[disabled].active.btn-yahoo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+fieldset[disabled] .active.btn-yahoo {
+	border-color: rgba(0, 0, 0, 0.2); background-color: rgb(114, 14, 158);
+}
+.btn-yahoo .badge {
+	color: rgb(114, 14, 158); background-color: rgb(255, 255, 255);
+}
